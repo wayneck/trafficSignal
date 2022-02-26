@@ -39,6 +39,7 @@ yolov3 + mobilenetv1
 > </font> 
 > stop    
 
+<font size=5 color=#ff0000>  用本项目中的annotations替换数据集中的annotations</font> 
 
 ``` xml
 <annotation>
